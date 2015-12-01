@@ -2,6 +2,6 @@
 
 ## Usage
 
-1. In `native` do `npm install`
-2. From top level do `natal launch`
+1. `natal deps`
+2. `natal launch`
 
